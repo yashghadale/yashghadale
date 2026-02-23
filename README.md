@@ -6,13 +6,11 @@ A Frontend Engineer passionate about building scalable React applications and ML
 
 🔭 Currently working as a **React Developer Intern @ Dot eVentures Pvt. Ltd.**
 
-🎓 Pursuing **M.Tech in Computer Science @ IIITDM Kurnool**
+🎓 Pursuing **M.Tech in Computer Science @ IIITDM Kurnool**  
 
-🧠 Built a lightweight YOLOv8-based object detection model (YOLO Phantom) optimized for edge deployment  
+📊 Developed real-time analytics dashboards integrating ML detection systems 
 
-📊 Developed real-time analytics dashboards integrating ML detection systems  
-
-👨‍💻 Portfolio: (Add your portfolio link here)
+🧠 Built a lightweight YOLOv8-based object detection model (YOLO Phantom) optimized for edge deployment
 
 💬 Ask me about **React.js, Next.js, Firebase, REST APIs, or Performance Optimization**
 
