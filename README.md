@@ -23,7 +23,7 @@ A Frontend Engineer passionate about building scalable React applications and ML
 ---
 
 ## 🌐 Connect with me:
-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yash-ghadale-956b051b6/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yash-ghadale-956b051b6/)
   
 ---
 
