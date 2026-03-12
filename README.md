@@ -1,12 +1,12 @@
-# Hi 👋, I'm Yash Ghadale  
+# Hi, I'm Yash Ghadale  
 
-A Frontend Engineer passionate about building scalable React applications and ML-integrated web systems 🚀  
+A Software Development Engineer passionate about building scalable React applications and ML-integrated web systems 🚀  
 
 ---
 
-🔭 Currently working as a **React Developer Intern @ Dot eVentures Pvt. Ltd.**
+🔭 Currently working as a **React Developer @Dot eVentures Pvt. Ltd.**
 
-🎓 Pursuing **M.Tech in Computer Science @ IIITDM Kurnool**  
+🎓 Pursuing **M.Tech in Computer Science @IIITDM Kurnool**  
 
 📊 Developed real-time analytics dashboards integrating ML detection systems 
 
