@@ -4,8 +4,6 @@ A Software Development Engineer passionate about building scalable React applica
 
 ---
 
-🔭 Currently working as a **React Developer @Dot eVentures Pvt. Ltd.**
-
 🎓 Pursuing **M.Tech in Computer Science @IIITDM Kurnool**  
 
 📊 Developed real-time analytics dashboards integrating ML detection systems 
