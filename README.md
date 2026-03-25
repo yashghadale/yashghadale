@@ -14,7 +14,7 @@ A Software Development Engineer passionate about building scalable React applica
 
 📫 How to reach me: [yashghadale511@gmail.com](mailto:yashghadale511@gmail.com)
 
-📄 View my Resume: [Drive Link](https://drive.google.com/file/d/1_2FMNr-qCEZk5HqlBuv7GEi_jYLRia6-/view?usp=sharing)
+📄 View my Resume: [Drive Link](https://drive.google.com/file/d/1Dcx6jrLaxkDsWY9OJWbSEBPFtA7wW12b/view?usp=sharing)
 
 ---
 
