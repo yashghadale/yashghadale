@@ -4,7 +4,7 @@ A Software Development Engineer passionate about building scalable React applica
 
 ---
 
-🎓 Pursuing **M.Tech in Computer Science @IIITDM Kurnool**  
+🎓 Pursuing **M.Tech in Computer Science @IIITDM Kurnool**
 
 📊 Developed real-time analytics dashboards integrating ML detection systems 
 
