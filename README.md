@@ -1,6 +1,6 @@
 # Hi, I'm Yash Ghadale  
 
-A Software Development Engineer passionate about building scalable React applications and ML-integrated web systems 🚀  
+A React Developer passionate about building scalable React applications and ML-integrated web systems 🚀  
 
 ---
 
