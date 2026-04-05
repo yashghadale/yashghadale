@@ -14,7 +14,7 @@ A React Developer passionate about building scalable React applications and ML-i
 
 📫 How to reach me: [yashghadale511@gmail.com](mailto:yashghadale511@gmail.com)
 
-📄 View my Resume: [Drive Link](https://drive.google.com/file/d/1Dcx6jrLaxkDsWY9OJWbSEBPFtA7wW12b/view?usp=sharing)
+📄 View my Resume: [Drive Link](https://drive.google.com/file/d/1g_MjalqfbF_4D765bLXuF4Qs9Uqc7eCP/view?usp=sharing)
 
 ---
 
